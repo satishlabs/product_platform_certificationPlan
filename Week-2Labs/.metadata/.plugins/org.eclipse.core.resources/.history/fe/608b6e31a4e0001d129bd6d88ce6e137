@@ -1,0 +1,9 @@
+package com.satishlabs.springboot.course.springdatajpa;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.satishlabs.springboot.course.Course;
+
+public interface CourseSpringDataJpaRepository extends JpaRepository<Course, Long>{
+	findByAuthor(String author);
+}

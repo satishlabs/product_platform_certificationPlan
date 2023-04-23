@@ -1,0 +1,5 @@
+package com.satishlabs.springboot.course.course.jdbc;
+
+public class CourseJdbcRepository {
+
+}

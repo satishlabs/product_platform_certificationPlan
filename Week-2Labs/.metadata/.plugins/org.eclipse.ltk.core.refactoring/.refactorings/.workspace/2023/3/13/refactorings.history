@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;learn-spring-security-1&apos; to &apos;learn-oauth&apos;" description="Rename resource &apos;learn-spring-security-1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/learn-spring-security-1" name="learn-oauth" stamp="1680086736385" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;learn-oauth&apos;" deleteContents="true" description="Delete resource &apos;learn-oauth&apos;" element1="/learn-oauth" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1680086759059"/>
+</session>

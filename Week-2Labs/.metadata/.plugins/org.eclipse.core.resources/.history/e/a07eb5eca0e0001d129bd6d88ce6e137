@@ -1,0 +1,5 @@
+package com.satishlabs.springboot.course.jpa;
+
+public class CourseJpaRepository {
+
+}

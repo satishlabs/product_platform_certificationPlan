@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.satishlabs.game.MarioGame"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.web.reactive.HttpHandlerAutoConfiguration.AnnotationConfig"/>
+    <fullyQualifiedTypeName name="com.satishlabs.HelloWorldConfiguration"/>
+    <fullyQualifiedTypeName name="com.satishlabs.Pojo"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="com.satishlabs.Address"/>
+    <fullyQualifiedTypeName name="com.satishlabs.Person"/>
+    <fullyQualifiedTypeName name="com.satishlabs.Person1"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.satishlabs.game.Pacman"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.satishlabs.GamingConfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.a1.Dependency1"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.a1.Dependency2"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.a1.YourBusinessClass"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.c1.DataService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.c1.BusinessCalculationService"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.d1.ClassA"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.d1.ClassB"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Lazy"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.config.ConfigurableBeanFactory"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.e1.PrototypeClass"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.e1.NormalClass"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.f1.SomeClass"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.f1.SomeDependency"/>
+    <fullyQualifiedTypeName name="jakarta.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="jakarta.annotation.PreDestroy"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="com.satishlabs.examples.g1.BusinessService"/>
+    <fullyQualifiedTypeName name="jakarta.inject.Inject"/>
+    <fullyQualifiedTypeName name="jakarta.inject.Named"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.satishlabs.game.GameConsole"/>
+    <fullyQualifiedTypeName name="com.satishlabs.game.GameRunner"/>
+</qualifiedTypeNameHistroy>

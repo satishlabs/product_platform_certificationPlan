@@ -1,0 +1,32 @@
+package com.satishlabs.examples.e1;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
+
+
+@Component
+class NormalClass{
+	
+}
+
+@Scope
+class PrototypeClass{
+	
+}
+
+
+@Configuration
+@ComponentScan
+public class BeanScopesLauncherApplication {
+
+	public static void main(String[] args) {
+		try (var ctx = new AnnotationConfigApplicationContext(BeanScopesLauncherApplication.class)) {
+			System.out.println("Inititlization of context is completed...");
+			
+		}
+
+	}
+}

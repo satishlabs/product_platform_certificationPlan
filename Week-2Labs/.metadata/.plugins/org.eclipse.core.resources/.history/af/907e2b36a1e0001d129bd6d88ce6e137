@@ -1,0 +1,18 @@
+package com.satishlabs.springboot.course.jpa;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.satishlabs.springboot.course.Course;
+
+import jakarta.persistence.EntityManager;
+
+@Repository
+public class CourseJpaRepository {
+	@Autowired
+	private EntityManager entityManager;
+	
+	public void insert(Course course) {
+		entityManager.merge(course);
+	}
+}

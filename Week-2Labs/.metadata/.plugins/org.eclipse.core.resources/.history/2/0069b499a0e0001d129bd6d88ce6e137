@@ -1,0 +1,25 @@
+package com.satishlabs.springboot.course.jdbc;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.stereotype.Component;
+
+import com.satishlabs.springboot.course.Course;
+import com.satishlabs.springboot.course.jdbc.CourseJdbcRepository;
+
+@Component
+public class CourseJdbcCommandLineRunner implements CommandLineRunner {
+
+	@Autowired
+	private CourseJdbcRepository courseJdbcRepository;
+
+	@Override
+	public void run(String... args) throws Exception {
+		courseJdbcRepository.insert(new Course(1, "Learn AWS", "Satish"));
+		courseJdbcRepository.insert(new Course(2, "Learn ReactJS", "Prasad"));
+		courseJdbcRepository.insert(new Course(3, "Learn Microservice", "Test"));
+		//courseJdbcRepository.selectById(2);
+		System.out.println(courseJdbcRepository.selectById(2));
+		courseJdbcRepository.deleteById(1);
+	}
+}
