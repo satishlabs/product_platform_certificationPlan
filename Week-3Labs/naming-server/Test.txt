@@ -21,3 +21,19 @@ eureka.instance.prefer-ip-address=true
 OR
 
 eureka.instance.hostname=localhost
+
+
+---------------------------------
+
+Course Update - Github Repositories
+Thank you so much for enrolling, I'm so excited for you to start your microservices journey!
+
+👉 DO YOU KNOW?
+We are maintaining multiple Github Repositories for this course to make it easy for you to use different Spring Boot versions.
+
+👉 WHAT SHOULD YOU DO?
+Use the following repo's based on your Spring Boot version
+
+Spring Boot 3.0+ - https://github.com/in28minutes/spring-microservices-v3
+
+Spring Boot 2.4+ - https://github.com/in28minutes/spring-microservices-v2
